@@ -11,6 +11,10 @@
 ## Dflipflop with Reset signal
 ![image](https://github.com/user-attachments/assets/f202ebfa-e97e-459b-b316-e84f9430e202)
 
+### 2:1MUX using Transmission Gate
+![image](https://github.com/user-attachments/assets/a10cb037-19d5-4f21-a6bf-edbc559c7a69)
+
+
 ### Schematic of DFlipflop
 
 ### Simulation result
